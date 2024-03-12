@@ -1,0 +1,7 @@
+C:\Users\User\LR2_git\LR2_git\LR2_git\bin\Debug\LR2_git.exe
+C:\Users\User\LR2_git\LR2_git\LR2_git\bin\Debug\LR2_git.pdb
+C:\Users\User\LR2_git\LR2_git\LR2_git\obj\x86\Debug\LR2_git.Form1.resources
+C:\Users\User\LR2_git\LR2_git\LR2_git\obj\x86\Debug\LR2_git.Properties.Resources.resources
+C:\Users\User\LR2_git\LR2_git\LR2_git\obj\x86\Debug\LR2_git.csproj.GenerateResource.Cache
+C:\Users\User\LR2_git\LR2_git\LR2_git\obj\x86\Debug\LR2_git.exe
+C:\Users\User\LR2_git\LR2_git\LR2_git\obj\x86\Debug\LR2_git.pdb
